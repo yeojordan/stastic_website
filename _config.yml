@@ -6,7 +6,7 @@ github_repo: athena
 github_username: broccolini
 theme_color: black
 remote_theme: internet-de-france/swiss
-baseurl: /blog
+baseurl: /stastic_website
 defaults:
   - scope:
       path: ''
